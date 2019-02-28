@@ -63,7 +63,10 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 ## Resources
 
-- [TurorialBank: Learning NLP Made Easier](https://alex-fabbri.github.io/TutorialBank/)
+- [NLP Progress](https://nlpprogress.com/)
+
+- [Papers with Code: NLP](https://paperswithcode.com/area/nlp)
+
 
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
 
@@ -77,10 +80,16 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 - [SentiWordNet](http://sentiwordnet.isti.cnr.it/)
 
-- [Pre-trained word vectors by fastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
+- [BERT pre-trained vectors for Tensorflow](https://github.com/google-research/bert)
+  
+- [PyTorch pre-trained vectors](https://github.com/huggingface/pytorch-pretrained-BERT): BERT & OpenAI's GPT Models
+
+- [Pre-trained word vectors by fastText](https://fasttext.cc)
+
+- [TurorialBank: Learning NLP Made Easier](https://alex-fabbri.github.io/TutorialBank/)
 
 
-## NLProc APIs
+## Other NLProc APIs
 
 - [Cloud Natural Language API](https://cloud.google.com/natural-language/)
 
@@ -90,12 +99,11 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 - [MonkeyLearn](http://docs.monkeylearn.com/article/api-reference/)
 
-- [Mashape's Market on Natural
-  Language](https://market.mashape.com/explore?query=language&page=1)
+- [Mashape's Market on Natural Language](https://market.mashape.com/explore?query=language&page=1)
 
 
 
-### Readings on Neural Networks
+### Readings on Neural Networks and Deep Learning
 
 - [Christopher Olah's blog on Neural Networks ](http://colah.github.io/), specially the post on [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 
