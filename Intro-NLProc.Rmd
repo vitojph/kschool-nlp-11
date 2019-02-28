@@ -27,7 +27,9 @@ output:
 
 El Procesamiento del Lenguaje Natural (PLN)\footnote{En inglés, \textit{Natural Language Processing} (NLP) o mejor \#NLProc. La disciplina recibe otros nombres, como \textit{Human Language Technologies} (HLT), tecnologías de la lengua, ingeniería lingüística, lingüística computacional, etc.} es el estudio científico del lenguaje desde un punto de vista computacional. 
 
-Es un área claramente multidisciplinar que aglutina lingüística, ingeniería, inteligencia artificial, informática, estadística, psicología, interacción hombre-máquina, ciencias ognitivas, etc.
+Es un área claramente multidisciplinar que aglutina lingüística, ingeniería, inteligencia artificial, informática, estadística, psicología, interacción hombre-máquina, ciencias cognitivas, etc.
+
+![](img/ds-venn.png)
 
 Nace como disciplina en los años 1950s con un objetivo inicial claro: construir sistemas de traducción automática.
 
@@ -52,6 +54,9 @@ Tradicionalmente, el PLN ha trabajado utilizando dos aproximaciones diferentes:
 2. sistemas basados en estadística: en problemas que son costosos o no podemos modelar, proporcionamos ingentes cantidades de datos (colecciones de documentos) y dejamos que la máquina cree el modelo a partir del cálculo de probabilidades y la detección de patrones de uso.
 
 
+![](img/nlp-venn.png)
+
+
 ## Progresos
 
 La disciplina nace a partir de los 1950s y al inicio de la Guerra Fría con el objetivo principal de construir sistemas de **traducción automática**.
@@ -64,7 +69,7 @@ A partir de esa década, irrumplen las aproximaciones estadísticas basadas en s
 
 Actualmente, vivimos un auge de los sistemas de aprendizaje automático *supervisados* (anotados manualemente) y *no supervisados* (sin anotaciones de ningún tipo), con especial énfasis en el uso de la Web. Se aprovecha la explosión de datos disponibles en formato electrónico.
 
-En la década de los 2010s hemos visto el resurgir de los sistemas de aprendizaje automático que utilizan **redes neuronales** para procesar ingentes cantidades de datos (*deep learning*). La gran pega reside en que es necesario contar con muchos datos y mucha potencia de cálculo (cententares de GPUs)... Hasta que llegaron los modelos pre-entrenados y la aplicación de *Transfer Learning* al mundo del procesamiento del lenguaje. Y es que... somos afortunados, porque estamos viviendo el momento ImageNet del NLP. [^imagenet-nlp] 
+En la década de los 2010s hemos visto el resurgir de los sistemas de aprendizaje automático que utilizan **redes neuronales** para procesar ingentes cantidades de datos (*deep learning*). La gran pega reside en que es necesario contar con muchos datos y mucha potencia de cálculo (cententares de GPUs)... Hasta que llegaron los modelos pre-entrenados y la aplicación de *Transfer Learning* al mundo del procesamiento del lenguaje. Y es que... somos afortunados, porque justo ahora estamos viviendo el momento ImageNet del NLP. [^imagenet-nlp] 
 
 
 
@@ -151,4 +156,4 @@ Según la ACL (*Association for Computational Linguistics*): *Computational Ling
 [^sepln]: SEPLN 2018 Program http://www.sepln2018.com/en/programa/
 [^sepln-cfp]: SEPLN 2018 CFP http://www.sepln2018.com/ 
 [^acl-faq]: ACL FAQ about Computational Linguistics https://aclweb.org/aclwiki/Frequently_asked_questions_about_Computational_Linguistics
-[^imagenet-nlp] NLP's ImageNet moment has arrived http://ruder.io/nlp-imagenet/
+[^imagenet-nlp]: NLP's ImageNet moment has arrived http://ruder.io/nlp-imagenet/
