@@ -116,7 +116,7 @@ De este modo, podemos identificar algunas de las tareas más comunes del área:
 ![Language Technologies Progress, according to Stanford NLP](img/langtech-progress.png)
 
 
-# ¿Por qué es tan difícil el PLN?
+# ¿Por qué es tan difícil el PLN? [^4-problems]
 
 El lenguaje natural es eminentemente **ambiguo**. Esta es la principal diferencia entre lenguas naturales y lenguajes artificiales.
   
@@ -157,3 +157,4 @@ Según la ACL (*Association for Computational Linguistics*): *Computational Ling
 [^sepln-cfp]: SEPLN 2018 CFP http://www.sepln2018.com/ 
 [^acl-faq]: ACL FAQ about Computational Linguistics https://aclweb.org/aclwiki/Frequently_asked_questions_about_Computational_Linguistics
 [^imagenet-nlp]: NLP's ImageNet moment has arrived http://ruder.io/nlp-imagenet/
+[^4-problems]: The 4 Biggest Open Problems in NLP http://ruder.io/4-biggest-open-problems-in-nlp/
