@@ -16,6 +16,8 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 - [NLTK: Parsing](notebooks/nltk-analyzers.ipynb)
 - [TextBlob: NLP](notebooks/textblob.ipynb)
 - [spaCy: NLP](notebooks/spacy.ipynb)
+- [flair: NLP](notebooks/flair.ipynb)
+- [stanfordnlp](notebooks/standfordnlp.ipynb)
 - [Space Vector Models](notebooks/vsm.ipynb)
 - [Word Embeddings](notebooks/word2vec.ipynb)
 
@@ -67,6 +69,7 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 - [Papers with Code: NLP](https://paperswithcode.com/area/nlp)
 
+- the [Beyond Word Embeddings](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f) series, especially [its Part 2](https://towardsdatascience.com/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec)
 
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
 
