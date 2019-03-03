@@ -17,7 +17,6 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 - [TextBlob: NLP](notebooks/textblob.ipynb)
 - [spaCy: NLP](notebooks/spacy.ipynb)
 - [flair: NLP](notebooks/flair.ipynb)
-- [stanfordnlp](notebooks/standfordnlp.ipynb)
 - [Space Vector Models](notebooks/vsm.ipynb)
 - [Word Embeddings](notebooks/word2vec.ipynb)
 
